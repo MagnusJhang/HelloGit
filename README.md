@@ -12,3 +12,4 @@ Added this line in 2nd commit.
 
 $x=\frac{\sum^{10}_{i=1}{exp^{2\times i}}}{3}$
 
+4th commit

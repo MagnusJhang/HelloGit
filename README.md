@@ -2,6 +2,8 @@
 
 Added this line in 2nd commit.
 
+![Feature](/new_feature/feature.png)
+
 * 3rd commit.
 
 ```C

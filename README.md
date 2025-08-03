@@ -20,3 +20,6 @@ $x=\frac{\sum^{10}_{i=1}{exp^{2\times i}}}{3}$
 
 
 coco: I have made a revision for this file.
+
+
+![sushi](sushi.png)
